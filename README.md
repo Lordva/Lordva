@@ -3,7 +3,7 @@ I'm a french IT passionate, I've learned (and still is) programing by myself and
 
 ### Some stuff about me
 - I daily drive Linux (pop!_os)
-- I'm french but leave in spain
+- I'm french but live in spain
 - I love bash <3
 
 ## I mainly write bash scripts
