@@ -14,7 +14,8 @@ I'm a french IT passionate, I've learned (and still is) programing by myself and
 ## Currently working on
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lordva&repo=minecraft-server-installer)](https://github.com/lordva/minecraft-server-installer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lordva&repo=download_manager)](https://github.com/astrogd/ticketsystem)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lordva&repo=download_manager)](https://github.com/lordva/download_manager)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lordva&repo=Garden-bot)](https://github.com/lordva/Garden-bot)
 
 ## My objective 🧭 
 My goal is to make **one commit a day for the rest of 2020 !**
