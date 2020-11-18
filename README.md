@@ -2,7 +2,7 @@
 I'm a french IT passionate, I've learned (and still is) programing by myself and try to improve everyday !
 
 ### Some stuff about me
-- I daily drive Linux (pop!_os)
+- I daily drive Linux (now on dual boot for software compatibility :/ )
 - I'm french but live in spain
 - I love bash <3
 
