@@ -18,7 +18,10 @@ I'm a french IT passionate, I've learned (and still is) programing by myself and
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lordva&repo=Garden-bot)](https://github.com/lordva/Garden-bot)
 
 ## My objective 🧭 
-My goal is to make **one commit a day for the rest of 2020 !**
+My goal is (was) to make **one commit a day for the rest of 2020 !**
 and I'm trying to learn JS w/ react
+
+#### Update on my objective :
+Unfortunatly school takes most of my free time right now, it might be hard to maintain one commit a day 😅
 
 <!-- This is heavely inspired from https://github.com/AstroGD/AstroGD/blob/master/README.md -->
