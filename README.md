@@ -8,7 +8,7 @@ I'm a french IT passionate, I've learned (and still is) programing by myself and
 
 ## I mainly write bash scripts
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordva&layout=compact&count_private=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordva)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Currently working on
