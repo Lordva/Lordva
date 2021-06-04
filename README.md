@@ -15,7 +15,7 @@ I'm a french IT passionate, I've learned (and still is) programing by myself and
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lordva&repo=minecraft-server-installer)](https://github.com/lordva/minecraft-server-installer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lordva&repo=download_manager)](https://github.com/lordva/download_manager)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lordva&repo=co2_sensor)](https://github.com/lordva/Garden-bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lordva&repo=co2_sensor)](https://github.com/lordva/co2_sensor)
 
 Some C# and .NET related projects, I've been learing alot of .NET and ASP.NET lately and I find it great!
 <!-- This is heavely inspired from https://github.com/AstroGD/AstroGD/blob/master/README.md -->
