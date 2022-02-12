@@ -1,8 +1,8 @@
 ## Hi there ! 👋
-I'm a french IT passionate, I've learned (and still is) programing by myself and try to improve everyday !
+I'm a french IT hobbyist, I've (and still is) learned programing by myself and try to improve everyday !
 
 ### Some stuff about me
-- I daily drive Linux (now on dual boot for software compatibility :/ )
+- I daily drive Arch Linux (now on dual boot for software compatibility :/ )
 - I love bash <3
 
 ## Most used languages
